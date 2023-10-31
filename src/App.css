@@ -21,7 +21,7 @@ body{
 
 .right-arrow {
   position: absolute;
-  right: 200px;
+  right: 5%;
   font-size: 3rem;
   color: black;
   z-index: 10;
@@ -33,7 +33,7 @@ body{
 
 .left-arrow {
   position: absolute;
-  left: 200px;
+  left: 5%;
   font-size: 3rem;
   color: black;
   z-index: 10;
