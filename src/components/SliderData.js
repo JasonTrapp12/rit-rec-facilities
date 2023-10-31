@@ -29,5 +29,11 @@ export const SliderData = [
     {
         image: "/Images/wiedman.jpg"
     },
+    {
+        image: "/Images/baker.jpg"
+    },
+    {
+        image: "/Images/multipurposecourts.jpg"
+    },
 ];
 
